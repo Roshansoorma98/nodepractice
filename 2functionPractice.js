@@ -24,7 +24,7 @@ const num=-30;
 result=pos(num);
 console.log(result);
 
-//Program to find Sum of Digits
+//Program to find avg of number
 function avg(num1,num2,num3)
 {
 sum=num1+num2+num3;
